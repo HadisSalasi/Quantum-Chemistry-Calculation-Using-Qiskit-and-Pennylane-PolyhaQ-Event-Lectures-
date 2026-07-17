@@ -2,6 +2,9 @@
 This repository contains a comprehensive tutorial on quantum chemistry simulations using Qiskit and PennyLane. Developed for the PolyhaQ Quantum Hackathon at Tehran Polytechnic, this guide walks you through the fundamental concepts required to implement the Variational Quantum Eigensolver (VQE) algorithm from scratch.
 
 
+PolyhaQ is Iran's first quantum hackathon, organized by the Quantum Group (QuCal Group) within the Department of Physics and Energy Engineering at Amirkabir University of Technology (Tehran Polytechnic).
+
+
 For discussions on quantum computing, whether about quantum algorithm design, quantum chemistry simulations, error correction schemes, or any related topics, feel free to reach out to me at hadis.salasi2000@gmail.com.
 
 
@@ -13,5 +16,6 @@ The notebook "Quantum_Chemistry_(PES)_PolyhaQ.ipynb" provides a step-by-step gui
 
 The notebook "H2O_ground_state_with_Pennylane_and_Qiskit.ipynb" provides a comprehensive tutorial for computing the ground-state energy of the water molecule, a system more complex than the hydrogen molecule. It provides implementations in both Qiskit and PennyLane (using the Strawberry Fields library), allowing for a direct comparison between the two frameworks.
 
+You can access all repositories of the PolyhaQ 2026 Event through this link: https://github.com/polyhaq/Polyhaq2026-Codes.
 
 This comprehensive review and optimization code development was contributed by Hadis Salasi.
